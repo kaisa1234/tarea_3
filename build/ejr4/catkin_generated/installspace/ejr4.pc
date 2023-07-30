@@ -1,0 +1,8 @@
+prefix=/home/eduardo/Documentos/clase3/ws_clase3/install
+
+Name: ejr4
+Description: Description of ejr4
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+ejr2:ejr3:ejr4:ejr5:test1
+-DCATKIN_DEVEL_PREFIX=/home/eduardo/Documentos/clase3/ws_clase3/devel -DCMAKE_INSTALL_PREFIX=/home/eduardo/Documentos/clase3/ws_clase3/install -G Unix Makefiles
