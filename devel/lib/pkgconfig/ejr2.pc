@@ -1,0 +1,8 @@
+prefix=/home/eduardo/Documentos/clase3/ws_clase3/devel
+
+Name: ejr2
+Description: Description of ejr2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
